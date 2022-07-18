@@ -1,0 +1,44 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+
+button{
+    font-size: 18px;
+    font-weight: light;
+    color: grey;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: black;
+}
+
+h1{
+    color: lightsalmon
+}
+
+h2{font-size: 30px;
+    font-style: italic;
+    color: salmon;
+    text-decoration: underline black;
+    font-weight: lighter;
+}
+
+p{
+    font-weight: lighter;
+    color: black;
+    font-size: 18px
+}
+
+h4{
+    color: salmon;
+    font-size: 22px;
+}
+
+ul{
+    font-style: italic;
+}
+
+ol{
+    font-weight: 800
+}
+
